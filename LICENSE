@@ -1,21 +1,15 @@
-MIT License
+LICENSE
 
-Copyright (c) 2024 Sungmin Han
+Copyright 2023, Fast Campus (Day One Company). All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository contains the educational material and software for the Machine Learning courses provided by Fast Campus. These materials are provided for academic and educational purposes only. Students may modify and use the software for personal academic use to enhance their learning experience. However, any unauthorized distribution, replication, or commercial use of the software and associated educational materials is strictly prohibited.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Prohibitions include, but are not limited to:
+1. No part of this software or its documentation may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Fast Campus.
+2. The commercial use of the software and any of its parts for any purpose without explicit approval from Fast Campus is strictly prohibited.
+3. Modifications of the software for any purpose other than personal academic use must not be redistributed or publicly shared without express consent from Fast Campus.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This license is intended to ensure that the educational integrity and rights of Fast Campus and its intellectual property are preserved. Any breach of these terms may result in legal action and enforcement of Fast Campus' rights under the law.
+
+For further information or permissions beyond the scope of this license, please contact Fast Campus directly.
+
