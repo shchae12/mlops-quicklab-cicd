@@ -42,7 +42,7 @@ jobs:
         run: python trainer.py
 
       - name: Run tests with Pytest
-        run: pytest tests/
+        run: PYTHONPATH=$(pwd) pytest tests/
 
   deploy-to-artifact-repository:
     runs-on: ubuntu-latest
